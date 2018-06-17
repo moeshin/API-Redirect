@@ -1,7 +1,7 @@
 <?php
 /**
  * API Redirect
- * 
+ * 获取 重定向 最终真实地址
  * @author 小さな手は
  * @version 1.0.0
  * @link https://www.littlehands.site/
