@@ -1,9 +1,11 @@
 # API Redirect
 获取 重定向 后的得真实地址
 
-Dome: `GET https://api.littlehands.site/Redirect/` （[API-RedirectExt](https://www.littlehands.site/archives/API-RedirectExt.html)）
+Demo: `GET https://api.littlehands.site/Redirect/` （[API-RedirectExt](https://www.littlehands.site/archives/API-RedirectExt.html)）
 
 [GitHub 地址](https://github.com/moeshin/API-Redirect) | [GitHub 下载](https://codeload.github.com/moeshin/API-Redirect/zip/master)
+
+<!--more-->
 
 ## 参数说明
 参数|说明
